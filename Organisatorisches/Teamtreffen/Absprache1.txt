@@ -1,0 +1,14 @@
+03.09.2025
+
+Organisatorisches Treffen (Fabienne, Patricia)
+
+Organisatorisches:
+ Links zu Excel listen für die Zeiterfassung wurden abgelegt, jeder erfasst seine Zeit und trägt sie ein. 
+ Team treffen werden gebündelt für alle in einer eigenen Liste erfasst.
+
+Design Team:
+ Designer können auf dem 3DAssets-Branch bereits anfangen assets zu sammeln und im entsprechenden Ordner ablegen.
+ Es können bereits erste Szenen entworfen und in dem Szenen Ordner abgelegt werden.
+
+Technisches Team:
+ Entwickelt wird mit feature Branches und auf den develop branch gepusht
